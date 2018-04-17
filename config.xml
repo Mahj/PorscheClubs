@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.digitalwork.porscheclubs" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="co.digitalwork.porscheclubs" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Porsche Clubs</name>
     <description>Porsche club community and social mobile application</description>
     <author email="mahj.elattar@porscheclubmonaco.mc" href="http://dw.porscheclubmonaco.mc">Monaco Digital Work Team</author>
