@@ -1,8 +1,8 @@
 {
-  "name": "ionic-hello-world",
-  "version": "0.0.0",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "Porsche Clubs",
+  "version": "0.1.0",
+  "author": "Mahjoub EL ATTAR",
+  "homepage": "http://dw.porscheclubmonaco.mc/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
